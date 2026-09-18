@@ -1,4 +1,4 @@
-# UW Governed Agent Platform
+# Governed Agent Platform
 
 A governed, retrieval-augmented AI agent platform for healthcare use cases, built with pgvector, FastAPI, and Claude.
 
