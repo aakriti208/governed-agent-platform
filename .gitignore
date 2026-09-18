@@ -1,0 +1,21 @@
+# Secrets & creds
+.env
+.env.*
+*.pem
+**/aws_credentials
+
+# Data 
+data/
+*.csv
+*.ndjson
+synthea_output/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local infra / editor
+.DS_Store
+.idea/
+docker-volumes/
